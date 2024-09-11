@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      username: almeida
+      password: almeida
+      host: localhost
+      port: 27017
+      database: almeidacoding
+      authentication-database: admin
